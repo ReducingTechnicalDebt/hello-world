@@ -1,2 +1,10 @@
 # hello-world
-my first repository
+
+Hi Everyone,
+
+I have created this account to learn new technology stack related to anything (well keeping Java as the base, mostly :)).
+I hope I am able to achieve this goal )both in short term as well as long term) and thereby keep reducing my Technical Debt.
+
+Wish me luck !!!
+
+Cheers.
